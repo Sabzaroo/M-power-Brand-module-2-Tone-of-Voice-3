@@ -1,9 +1,9 @@
 const config = {
-    title: "Click on each bullet below to learn more about each point.",
-    question: "",
+    title: "How to use your KIT:",
+    question: "2. Make it impactful",
     image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "",
+    selection_title: "Click on each bullet below to learn more about each point.",
     selection_options: [
         "Start with a bang",
         "Use your full vocabulary",
